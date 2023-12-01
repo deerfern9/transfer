@@ -1,0 +1,3 @@
+mnem1:address_to1:max/amount_to_send
+mnem2:address_to2:max/amount_to_send
+mnem3:address_to3:max/amount_to_send
